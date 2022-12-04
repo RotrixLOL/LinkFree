@@ -1,0 +1,35 @@
+{
+  "name": "RotrixX",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Full-Stack Dev and Open Source lover!",
+  "avatar": "https://github.com/RotrixLOL.png",
+  "tags": ["javascript", "react", "redux", "sass", "tailwindcss", "golang"],
+  "socials": [
+    {
+      "platform": "github",
+      "url": "https://github.com/RotrixLOL"
+    },
+    {
+      "platform": "twitter"
+      "url": "https://twitter.com/RotrixxLOL"
+    },
+  ],
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/RotrixLOL",
+      "icon": "github"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/RotrixxLOL",
+      "icon": "twitter"
+    },
+    {
+      "name": "Take a llok at my website!",
+      "url": "https://rotrixx.eu",
+      "icon": "globe"
+    }
+  ]
+}
